@@ -1,0 +1,34 @@
+[
+  {
+    "id": "seller-001",
+    "role": "seller",
+    "name": "Kira Morales",
+    "username": "seller.cleanpro",
+    "email": "seller@clearantech.io",
+    "password": "Seller123!"
+  },
+  {
+    "id": "seller-002",
+    "role": "seller",
+    "name": "Jonas Reed",
+    "username": "seller.jonas",
+    "email": "jonas@clearantech.io",
+    "password": "Seller456!"
+  },
+  {
+    "id": "buyer-001",
+    "role": "buyer",
+    "name": "Avery Chen",
+    "username": "buyer.avery",
+    "email": "avery@clearantech.io",
+    "password": "Buyer123!"
+  },
+  {
+    "id": "buyer-002",
+    "role": "buyer",
+    "name": "Mina Patel",
+    "username": "buyer.mina",
+    "email": "mina@clearantech.io",
+    "password": "Buyer456!"
+  }
+]
